@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imageUrl": "hhttps://i.ibb.co/gKFybK6/image1.jpg",
+    "imageUrl": "https://i.ibb.co/gKFybK6/image1.jpg",
     "prompt": "A cinematic shot of a neon city, 8k resolution, cyberpunk style."
   },
   {
@@ -19,4 +19,5 @@
     "imageUrl": "https://i.ibb.co/rGwCvjjG/image5.jpg",
     "prompt": "A peaceful mountain landscape during sunrise, oil painting."
   }
+
 ]
